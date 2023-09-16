@@ -1,0 +1,9 @@
+{
+  "name": "clothswap",
+  "version": "1.0.0",
+  "description": "HackMIT 2023 Project",
+  "main": "index.js",
+  "repository": "https://github.com/yohandev/clothswap.git",
+  "author": "Yohan Guyomard <yohang@mit.edu>",
+  "license": "MIT"
+}
