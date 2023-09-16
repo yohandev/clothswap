@@ -5,5 +5,14 @@
   "main": "index.js",
   "repository": "https://github.com/yohandev/clothswap.git",
   "author": "Yohan Guyomard <yohang@mit.edu>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "serve": "yarn && node build.js"
+  },
+  "devDependencies": {
+    "esbuild": "^0.19.3"
+  },
+  "dependencies": {
+    "preact": "^10.17.1"
+  }
 }
